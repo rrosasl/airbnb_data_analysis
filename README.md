@@ -7,6 +7,8 @@ If you go to Boston, what neighborhoods are more expensive?  If yo're curious ab
 Look at my medium [post](https://medium.com/@rrosasl/why-are-you-paying-so-much-for-that-boston-airbnb-a-look-at-the-data-7714b56aa72e)
 [Link to this github repo](https://github.com/rrosasl/airbnb_data_analysis)
 
+In this notebook I follow the CRISP-DM process to analyze the Airbnb data
+
 # Motivation
 Working with large datasets is a crucial part of any aspiring data scientist's journet. I'm doing this project within the context of my Udacity Data Science Nanodegree using data from Kaggle. 
 
