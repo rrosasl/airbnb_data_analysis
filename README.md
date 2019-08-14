@@ -46,6 +46,18 @@ from sklearn.metrics import r2_score, mean_squared_error
 
 > What's the impact on price of for example, # guests to accomodate, number of ratings, rating, etc?
 
+# Findings
+There is indeed a large variance in the prices of the neighborhoods, with the median price per night <200 USD. South End and Jamaica plain showed a large number of outliers
+
+The elements with the most interesting correlation to price are: how many people it accommodates (and other variables which serve as proxy for size), the review ratings, and if the property was all for yourself
+
+From the regression:
+If a place can host one additional person, you can expect a price increase of 23$. 
+
+If review rating goes 1 percentage point up, you can expect an increase of 0.89 usd in the price per night. 
+
+If you have the property all for yourself, you can expect the price to increase 50 USD
+
 
 # Acknowledgements
 
